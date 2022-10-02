@@ -14,7 +14,8 @@
             <guid>first-blog-post</guid>
             <pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[try to write my first blog]]></description>
-            <content:encoded><![CDATA[<p>try to write my first blog</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>try to write my first blog
+hihi 我是 Emma</p>]]></content:encoded>
             <category>product</category>
             <category>thoughts</category>
         </item>
