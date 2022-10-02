@@ -19,6 +19,7 @@ const config = {
   organizationName: 'EmmaChan2021', // Usually your GitHub org/user name.
   projectName: 'emmachan2021.github.io', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

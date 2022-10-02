@@ -10,3 +10,4 @@ tags: [product, thoughts]
 ---
 
 try to write my first blog
+hihi 我是 Emma
