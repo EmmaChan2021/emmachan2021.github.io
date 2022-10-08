@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: github
+title: a blog
 authors:
   name: Emma
   title: A product manager
