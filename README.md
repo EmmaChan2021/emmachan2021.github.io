@@ -20,4 +20,4 @@
 - [Github Page](https://docs.github.com/en/pages)
 
 ## 查看教程
-[👉🏻 前往我的博客，阅读详细教程](https://emmachan2021.github.io/blog/github)
+[👉🏻 前往我的博客，阅读详细教程](https://emmachan2021.github.io/blog/docusaurus-github)
