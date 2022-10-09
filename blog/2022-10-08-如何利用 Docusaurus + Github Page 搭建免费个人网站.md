@@ -1,5 +1,5 @@
 ---
-slug: github
+slug: docusaurus-github
 title: 如何利用 Docusaurus + Github Page 搭建免费个人网站
 authors:
   name: Emma
@@ -32,7 +32,6 @@ tags: [Tech]
 - [Docusaurus](https://www.docusaurus.cn/docs)
 - [Github Page](https://docs.github.com/en/pages)
 
-
 ## 准备工作
 ### 安装环境
 设备：MacBook Pro 
@@ -45,6 +44,7 @@ tags: [Tech]
 
 安装以后，在终端执行 ```node -v``` 命令来检查当前安装的 Node.js 版本。
 ![查看版本](https://s1.vika.cn/space/2022/10/08/4eb04b0314be45878a46bc013933c781)
+
 ### 创建 GitHub 账号
 前往 [Github](https://github.com/) 注册账号
 
@@ -62,15 +62,20 @@ npx create-docusaurus@latest my-website classic
 等待一会就创建成功啦 👻
 ![安装成功](https://s1.vika.cn/space/2022/10/08/50ff90de5a6245d68f90d8972ec73604)
 
+输入 `code .` 就可以使用 VScode 对工程进行编辑，可以在左侧目录树看到项目结构
+![目录](https://s1.vika.cn/space/2022/10/09/95ebcc73c2bb49a4b41cd3c6950605be)
 
-cd 到工程文件夹，看看有什么文件
-![ls](https://s1.vika.cn/space/2022/10/08/ae454906603841e5a802af1e8ccf4f94)
 
-输入 `npm start` 或者 `npm run start` 都可以运行本地服务器并启动网站，默认情况下，浏览器将打开 http://localhost:3000 地址，你就可以在本地预览网站啦~
+:::tip
+如果在终端无法打开 VScode，需要预先在 VScode 里，按住 `cmd+shift+p`，找到「shell 命令：在 PATH 中安装”Code“命令」，点击安装即可
+:::
+![shell命令](https://s1.vika.cn/space/2022/10/09/db341685162340b4bf8814322dfbb05a)
+
+
+在 VScode 中新建终端，输入 `npm start` 或者 `npm run start` 都可以运行本地服务器并启动网站，一般情况下，浏览器会自动打开 http://localhost:3000 地址，你就可以在本地实时预览网站效果啦~
 ![npm start](https://s1.vika.cn/space/2022/10/08/b0b53e8d7de54650885e3041004f1c88)
 ![本地预览](https://s1.vika.cn/space/2022/10/08/c55183283460463fa85ba5e8b291ed2e)
 
 
 
 
-输入 `code .` 就可以使用 VScode 来编辑啦
