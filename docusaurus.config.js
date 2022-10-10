@@ -25,8 +25,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -45,8 +45,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl:({blogDirPath, blogPath, permalink}) =>
+          `https://github.com/EmmaChan2021/emmachan2021.github.io/tree/main/${blogDirPath}`,
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
         },

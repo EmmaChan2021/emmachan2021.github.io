@@ -1,11 +1,7 @@
 ---
 slug: docusaurus-github
 title: 如何利用 Docusaurus + Github Page 搭建免费个人网站
-authors:
-  name: Emma
-  title: A product manager
-  url: https://github.com/EmmaChan2021
-  image_url: https://avatars.githubusercontent.com/u/87253804?v=4
+authors: Emma
 tags: [Tech]
 ---
 
