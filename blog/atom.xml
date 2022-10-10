@@ -33,8 +33,8 @@
         <id>test</id>
         <link href="https://emmachan2021.github.io/blog/test"/>
         <updated>2022-10-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I can conveniently use Docusaurus green everywhere!]]></summary>
-        <content type="html"><![CDATA[<p>I can conveniently use <highlight color="#25c2a0">Docusaurus green</highlight> everywhere!</p><p>哈哈哈哈 测试</p><h1>ddd </h1><p>This is my first post on Docusaurus 2.</p><p>A whole bunch of exploration to follow.</p>]]></content>
+        <summary type="html"><![CDATA[哈哈哈哈 测试]]></summary>
+        <content type="html"><![CDATA[<p>哈哈哈哈 测试</p><h1>ddd </h1><p>This is my first post on Docusaurus 2.</p><p>A whole bunch of exploration to follow.</p>]]></content>
         <author>
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
