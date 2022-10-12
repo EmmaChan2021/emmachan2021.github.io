@@ -8,7 +8,7 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      give my <a target="_blank" rel="noopener noreferrer" href="https://github.com/EmmaChan2021/emmachan2021.github.io">repository</a> a 🌟
+      Give my <a target="_blank" rel="noopener noreferrer" href="https://github.com/EmmaChan2021/emmachan2021.github.io">repository</a> a 🌟
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      📱 wechat: 740010731
+      📱 WeChat: 740010731
       </>
     ),
   },

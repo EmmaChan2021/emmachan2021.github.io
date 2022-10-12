@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img src='https://avatars.githubusercontent.com/u/87253804?v=4' style={{width: 280, borderRadius: '50%'}}/>
+        <img src='https://avatars.githubusercontent.com/u/87253804?v=4' style={{width: 200, borderRadius: '50%'}}/>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}'s blog`}
-      description="This is Emma's blog">
+      description="Welcome to my blog~">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
