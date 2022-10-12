@@ -16,7 +16,7 @@ export default function BlogPostItem({children, className}) {
     <BlogPostItemContainer className={clsx(containerClassName, className)}>
       <BlogPostItemHeader />
       <BlogPostItemContent>{children}</BlogPostItemContent>
-      <BlogPostItemFooter />
+      {/* <BlogPostItemFooter /> */}
     </BlogPostItemContainer>
   );
 }

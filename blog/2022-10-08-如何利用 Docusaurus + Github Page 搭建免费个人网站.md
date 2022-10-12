@@ -3,6 +3,7 @@ slug: docusaurus-github
 title: 如何利用 Docusaurus + Github Page 搭建免费个人网站
 authors: Emma
 tags: [Tech]
+keywords: [Docusaurus, Github Pages, 个人博客, 个人网站]
 ---
 
 ## 前言
