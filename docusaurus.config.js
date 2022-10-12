@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Emma',
+  title: 'Emma\'s blog',
   tagline: 'It is never too old to learn',
   url: 'https://emmachan2021.github.io/',
   baseUrl: '/',
