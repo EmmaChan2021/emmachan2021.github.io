@@ -45,8 +45,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:({blogDirPath, blogPath, permalink}) =>
-          `https://github.com/EmmaChan2021/emmachan2021.github.io/tree/main/${blogDirPath}`,
+          // editUrl:({blogDirPath, blogPath, permalink}) =>
+          // `https://github.com/EmmaChan2021/emmachan2021.github.io/tree/main/${blogDirPath}`,
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
         },
