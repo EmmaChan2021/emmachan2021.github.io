@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Emma Blog</title>
+        <title>Emma's blog Blog</title>
         <link>https://emmachan2021.github.io/blog</link>
-        <description>Emma Blog</description>
+        <description>Emma's blog Blog</description>
         <lastBuildDate>Wed, 12 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -40,17 +40,6 @@
 <img loading="lazy" src="https://s1.vika.cn/space/2022/10/10/815ec49e080249c6b4cee9168b07a1a4" alt="page" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="完结撒花">完结撒花<a class="hash-link" href="#完结撒花" title="Direct link to heading">​</a></h3><p>进行到这里，理论上网站已经成功上线了，去给朋友秀一下吧~~
 <img loading="lazy" src="https://s1.vika.cn/space/2022/10/10/b3d71de413b149ce8515b090525f1777" alt="success" class="img_ev3q">  </p><p>（当然别忘了给我点个赞 👇🏻，有问题也可以在下方评论噢</p>]]></content:encoded>
             <category>Tech</category>
-        </item>
-        <item>
-            <title><![CDATA[test]]></title>
-            <link>https://emmachan2021.github.io/blog/test</link>
-            <guid>test</guid>
-            <pubDate>Mon, 03 Oct 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[救命]]></description>
-            <content:encoded><![CDATA[<p>救命</p><p>哈哈哈哈 测试</p><h1>ddd </h1><p>This is my first post on Docusaurus 2.</p><p>A whole bunch of exploration to follow.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
