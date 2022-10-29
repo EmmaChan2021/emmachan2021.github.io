@@ -11,7 +11,8 @@ import DocItemTOCDesktop from '@theme/DocItem/TOC/Desktop';
 import DocItemContent from '@theme/DocItem/Content';
 import DocBreadcrumbs from '@theme/DocBreadcrumbs';
 import styles from './styles.module.css';
-import Comment from '../../../components/comment';
+import Comment from '../../components/comment';
+
 /**
  * Decide if the toc should be rendered, on mobile or desktop viewports
  */

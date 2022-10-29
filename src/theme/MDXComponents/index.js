@@ -8,6 +8,9 @@ import MDXHeading from '@theme/MDXComponents/Heading';
 import MDXUl from '@theme/MDXComponents/Ul';
 import MDXImg from '@theme/MDXComponents/Img';
 import Admonition from '@theme/Admonition';
+import { AirtableBase, AirtableForm, Whimsical } from 'mdx-embed';
+
+
 const MDXComponents = {
   head: MDXHead,
   code: MDXCode,
@@ -23,5 +26,8 @@ const MDXComponents = {
   h5: (props) => <MDXHeading as="h5" {...props} />,
   h6: (props) => <MDXHeading as="h6" {...props} />,
   admonition: Admonition,
+  Whimsical: Whimsical,
+  AirtableForm: AirtableForm,
+  AirtableBase: AirtableBase
 };
 export default MDXComponents;

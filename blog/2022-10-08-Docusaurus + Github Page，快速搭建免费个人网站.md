@@ -1,8 +1,8 @@
 ---
 slug: docusaurus-github
-title: 如何利用 Docusaurus + Github Page 搭建免费个人网站
+title: Docusaurus + Github Page，快速搭建免费个人网站
 authors: Emma
-tags: [Tech]
+tags: [Tech, Blog]
 keywords: [Docusaurus, Github Pages, 个人博客, 个人网站]
 ---
 
@@ -88,7 +88,7 @@ npm run start
 ![仓库](https://s1.vika.cn/space/2022/10/10/bb2bc2a666154a19b59dbc5e5c4f14af)
 
 在终端输入以下命令，把代码推送到 GitHub
-```
+``` bash
 git init
 git commit -m "first commit"
 git branch -M main
@@ -103,7 +103,7 @@ git push -u origin main
 
 ### 创建分支并推送代码
 在 `docusaurus.config.js` 文件里修改以下参数
-```
+``` js
 organizationName: 'xxx', // GitHub 用户名
 
 projectName: 'xxx.github.io', // GitHub 仓库名
