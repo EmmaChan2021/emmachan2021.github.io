@@ -7,7 +7,7 @@ import BlogPostItem from '@theme/BlogPostItem';
 import BlogPostPaginator from '@theme/BlogPostPaginator';
 import BlogPostPageMetadata from '@theme/BlogPostPage/Metadata';
 import TOC from '@theme/TOC';
-import Comment from '../../components/comment';
+import Comment from '@site/src/components/comment';
 
 function BlogPostPageContent({sidebar, children}) {
   const {metadata, toc} = useBlogPost();
