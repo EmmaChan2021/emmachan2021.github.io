@@ -5,7 +5,7 @@ keywords: [Docusaurus, 个人博客, 个人网站]
 ---
 
 ## 前言
-在上篇博客[《如何利用 Docusaurus + Github Page 搭建免费个人网站》](/tech/docusaurus-github)中，我们已经完成了网站的 MVP 版本，成功将网站模板部署上线了，接下来就要优化样式布局、填充内容，让它能真正成为我们的「个人网站」。
+在上篇博客[《Docusaurus + Github Page，快速搭建免费个人网站》](/docs/tech/docusaurus-github.md)中，我们已经完成了网站的 MVP 版本，成功将网站模板部署上线了，接下来就要优化样式布局、填充内容，让它能真正成为我们的「个人网站」。
 
 <!--truncate-->
 
@@ -157,7 +157,7 @@ Docusaurus 把页面分成了三种类型：独立页面、文档、博客。
 网站自带暗黑和浅色主题，可以在 [这里](https://www.docusaurus.cn/docs/styling-layout#styling-your-site-with-infima) 生成不同的主题色，然后将变量复制到`/src/css/custom.css` 文件中。
 
 ## 内容创作
-终于来到相对轻松的环节了~因为 Docusaurus 的初衷就是让内容创作者专注于内容，只需编写 Markdown 文件，所以只要你在 `docs` 或者 `blog` 文件夹里新建 md 文件，编写内容后，再根据上篇 [博客](/blog/docusaurus-github) 完成构建和部署，就可以成功发布上线啦！
+终于来到相对轻松的环节了~因为 Docusaurus 的初衷就是让内容创作者专注于内容，只需编写 Markdown 文件，所以只要你在 `docs` 或者 `blog` 文件夹里新建 md 文件，编写内容后，再根据上篇 [博客](/docs/tech/docusaurus-github.md) 完成构建和部署，就可以成功发布上线啦！
 
 ### 创建文档
 - 在 `docs` 目录下创建一个 markdown 文件
