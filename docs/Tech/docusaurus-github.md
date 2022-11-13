@@ -1,8 +1,6 @@
 ---
 slug: docusaurus-github
 title: Docusaurus + Github Page，快速搭建免费个人网站
-authors: Emma
-tags: [Tech, Blog]
 keywords: [Docusaurus, Github Pages, 个人博客, 个人网站]
 ---
 

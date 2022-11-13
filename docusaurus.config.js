@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Emma\'s blog',
-  tagline: 'It is never too old to learn',
+  tagline: 'Learn the rules like a pro, so you can break them like an artist.',
   url: 'https://emmachan2021.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -67,13 +67,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          {to: '/blog', label: 'Blog', position: 'right'},
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Blog',
+          },
+          // {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/EmmaChan2021',
             label: 'GitHub',
