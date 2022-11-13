@@ -5,7 +5,7 @@ keywords: [Docusaurus, 个人博客, 个人网站]
 ---
 
 ## 前言
-在上篇博客[《如何利用 Docusaurus + Github Page 搭建免费个人网站》](/blog/docusaurus-github)中，我们已经完成了网站的 MVP 版本，成功将网站模板部署上线了，接下来就要优化样式布局、填充内容，让它能真正成为我们的「个人网站」。
+在上篇博客[《如何利用 Docusaurus + Github Page 搭建免费个人网站》](/tech/docusaurus-github)中，我们已经完成了网站的 MVP 版本，成功将网站模板部署上线了，接下来就要优化样式布局、填充内容，让它能真正成为我们的「个人网站」。
 
 <!--truncate-->
 
