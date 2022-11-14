@@ -87,11 +87,11 @@ npm run start
 
 在终端输入以下命令，把代码推送到 GitHub
 ``` bash
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:xxx/xxx.github.io.git //这里一定要用 SSH 链接
-git push -u origin main
+git init // 初始化 Git
+git commit -m "first commit" // 提交更改
+git branch -M main // 合并分支
+git remote add origin git@github.com:xxx/xxx.github.io.git // 添加远端仓库，这里一定要用 SSH 链接
+git push -u origin main // 推送到远端仓库
 ```
 
 :::danger
