@@ -11,4 +11,4 @@ Docusaurus 是一个静态网站生成器，它能帮你完成制作网站内容
 - [Github Page](https://docs.github.com/en/pages)
 
 ## 查看教程
-[👉🏻 前往我的博客，阅读详细教程](https://emmachan2021.github.io//docs/tech/docusaurus-github)
+[👉🏻 前往我的博客，阅读详细教程](https://emmachan2021.github.io/docs/tech/docusaurus-github)
